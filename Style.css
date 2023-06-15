@@ -1,0 +1,57 @@
+
+body {
+  
+  background-image: url('https://img.freepik.com/foto-gratis/copia-espacio-macarons-mesa_23-2148537017.jpg?w=1060&t=st=1686516980~exp=1686517580~hmac=cb56d2216401f78050ef372b64cecc200abc46c64587f0cdaeda4b173256ed42');
+  background-size: cover;
+}
+
+h2 {color: rgba(251, 111, 225, 0.777);
+    letter-spacing: 0.25cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: 4px 2px 4px rgb(93, 92, 93);
+    -webkit-text-stroke: 0.5px black;
+  
+}
+
+  .group {
+      padding: 30px;
+      color: rgb(75, 74, 74);
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: large;  
+      width: 400px;
+      margin:0 auto;
+      margin-top: 80px;
+      border-radius: 80px;
+      border: 5px solid #0c0c0cb9;
+      position: relative;
+  }
+  
+  .form-input {
+    font-size: larger;
+    height: 50px;
+    width: 100%;
+    padding: auto;
+    background: hsla(59, 82%, 87%, 0.456);
+    border-radius: 20px;
+    margin:0 auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    position:relative;
+ }
+  
+  .form-btn {
+    margin-left: auto;
+    font-size: larger;
+    height: 30px;
+    width: 50%;
+    padding:auto;
+    background: hsla(294, 100%, 83%, 0.462);
+    border-radius: 6px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-top: 30px;
+  }
